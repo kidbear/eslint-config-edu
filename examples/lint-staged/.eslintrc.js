@@ -11,7 +11,7 @@ module.exports = {
         "ecmaVersion": 6,
         "sourceType": "module",
     },
-    "extends": ["eslint:recommended",  "edu"],
+    "extends": ["eslint:recommended",  "@study/eslint-config-edu"],
     "globals": {
         "NEJ": true,
         "define": true,

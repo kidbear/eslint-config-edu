@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-edu",
+  "name": "@study/eslint-config-edu",
   "version": "0.0.1",
   "description": "eslint config for edu",
   "main": "index.js",
