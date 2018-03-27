@@ -1,0 +1,19 @@
+{
+  "name": "lint-staged",
+  "version": "0.0.1",
+  "scripts": {
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "src/*.{js,jsx}": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-edu": "^0.1.0",
+    "husky": "^0.14.3",
+    "lint-staged": "^4.2.3"
+  }
+}
