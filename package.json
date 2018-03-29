@@ -1,19 +1,14 @@
 {
   "name": "@study/eslint-config-edu",
-  "version": "0.0.2",
+  "version": "0.0.31",
   "description": "eslint config for edu",
   "main": "index.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "keywords": [
     "edu"
   ],
   "author": "hzlinannan",
   "license": "ISC",
-  "files": [
-    "index.js"
-  ],
   "peerDependencies": {
     "eslint": ">=4.1.1"
   }

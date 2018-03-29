@@ -15,7 +15,7 @@ module.exports = {
     "globals": {
         "NEJ": true,
         "define": true,
-        "Regular": true
+        "Regular": true,
         "jQuery": true,
         "$": true
     }

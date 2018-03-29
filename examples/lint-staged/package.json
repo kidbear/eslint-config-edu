@@ -2,7 +2,7 @@
   "name": "lint-staged",
   "version": "0.0.1",
   "scripts": {
-    "precommit": "lint-staged"
+    "precommit": "eslint index*.js"
   },
   "lint-staged": {
     "*.js": [
@@ -11,8 +11,8 @@
     ]
   },
   "devDependencies": {
+    "@study/eslint-config-edu": "^0.0.3",
     "eslint": "^4.8.0",
-    "@study/eslint-config-edu": "^0.0.2",
     "husky": "^0.14.3",
     "lint-staged": "^4.2.3"
   }
