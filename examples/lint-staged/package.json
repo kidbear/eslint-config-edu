@@ -11,7 +11,7 @@
     ]
   },
   "devDependencies": {
-    "@study/eslint-config-edu": "^0.0.5",
+    "@study/eslint-config-edu": "^0.0.51",
     "eslint": "^4.8.0",
     "husky": "^0.14.3",
     "lint-staged": "^4.2.3"

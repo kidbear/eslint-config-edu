@@ -290,8 +290,7 @@ module.exports = {
 
         // 需要把立即执行的函数包裹起来
         // http://eslint.cn/docs/rules/wrap-iife
-        'wrap-iife': ['warn', 'inside']
-        },
+        'wrap-iife': ['warn', 'inside'],
 
         /** 代码风格 **/
         // warn; 单行最多允许80个字符, 对包含url的行不进行此限制
@@ -323,4 +322,4 @@ module.exports = {
          **/
 
   }
-}
+};
