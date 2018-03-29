@@ -4,16 +4,13 @@
   "description": "eslint config for edu",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "keywords": [
     "edu"
   ],
   "author": "hzlinannan",
   "license": "ISC",
-  "scripts": {
-
-  },
   "files": [
     "index.js"
   ],
