@@ -11,5 +11,6 @@
   "license": "ISC",
   "peerDependencies": {
     "eslint": ">=4.1.1"
-  }
+  },
+  "repository": "https://github.com/kidbear/eslint-config-edu.git"
 }
